@@ -19,7 +19,7 @@ function Sidebar() {
             </button>
 
             <a className='navbar-brand logo ' href='#'>
-              Medico Sales
+              Guvi sales
             </a>
           </div>
 
@@ -229,7 +229,7 @@ function Sidebar() {
       </nav>
 
       <div className='col-sm-2 sidenav hidden-xs '>
-        <h2 className='logo '>Medico Sales</h2>
+        <h2 className='logo '>guvi sales</h2>
         <ul className='nav nav-pills nav-stacked '>
           <li>
             <a href='#section2'>
